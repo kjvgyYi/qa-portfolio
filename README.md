@@ -37,11 +37,10 @@ This portfolio contains real test artifacts created on live demo applications.
 
 | Type | Count |
 |------|-------|
-| Test Cases | 15+ |
-| Bug Reports | 10+ |
-| API Tests | 5+ |
-| UI/Responsive Issues | 8+ |
-
+| Test Cases | 7 |
+| Bug Reports | 2 |
+| API Tests | 5 |
+| UI Issues | 1 |
 ---
 
 *Last updated: April 2026*
